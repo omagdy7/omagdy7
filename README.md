@@ -6,7 +6,7 @@ I'm **omagdy**, a Linux enthusiast, DevOps enjoyer, Rust advocater and like to r
 
 <br>
 
-I joined GitHub **1** years ago, I pushed **507** commits, opened **1** issues, submitted **24** pull requests, received **40** stars across **39** personal projects, and contributed to **7** public repositories.
+I joined GitHub **1** years ago, I pushed **508** commits, opened **1** issues, submitted **24** pull requests, received **40** stars across **39** personal projects, and contributed to **7** public repositories.
 
 ## I am comfortable working with
 <svg width="64" height="64" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
