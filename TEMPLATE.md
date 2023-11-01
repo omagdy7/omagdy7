@@ -1,4 +1,4 @@
-<img align="left" src="./images/penguin.jpeg" height="256" width="256">
+<img align="left" src="./images/penguin.jpeg" height="128" width="128">
 
 ### Hey!
 
