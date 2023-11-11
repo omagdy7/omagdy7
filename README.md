@@ -4,7 +4,7 @@ I'm **omagdy**, a Linux enthusiast, DevOps enjoyer, Rust advocater and like to r
 
 <br>
 
-I joined GitHub **1** years ago, I pushed **549** commits, opened **3** issues, submitted **28** pull requests, received **60** stars across **37** personal projects, and contributed to **10** public repositories.
+I joined GitHub **1** years ago, I pushed **551** commits, opened **3** issues, submitted **28** pull requests, received **62** stars across **37** personal projects, and contributed to **10** public repositories.
 
 ## I am comfortable working with
 
@@ -21,3 +21,9 @@ I joined GitHub **1** years ago, I pushed **549** commits, opened **3** issues, 
 <img width="64" height="64" src="https://github.com/omagdy7/omagdy7/assets/99906646/2a0667f7-138f-473c-be57-fddacdb12336">
 <img width="64" height="64" src="https://github.com/omagdy7/omagdy7/assets/99906646/dd58a748-8e6a-4827-aa2d-4fb7169e448f">
 <br> 
+<br> 
+<center>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omagdy7&langs_count=6">
+</center>
+
+
