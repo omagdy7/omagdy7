@@ -1,6 +1,8 @@
 ### Hey!
 
+
 I'm **omagdy**, a Linux enthusiast, DevOps enjoyer, Rust advocater and like to reinvent the wheel
+
 
 <br>
 
