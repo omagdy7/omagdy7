@@ -1,12 +1,17 @@
 ### Hey!
 
 
-I'm **omagdy**, a Linux enthusiast, DevOps enjoyer, Rust advocater and like to reinvent the wheel
+I'm **omagdy**, a Linux enthusiast, DevOps enjoyer, Rust advocater and I like to reinvent the wheel
 
 
 <br>
 
-I joined GitHub **2** years ago, I pushed **827** commits, opened **3** issues, submitted **29** pull requests, received **151** stars across **43** personal projects, and contributed to **9** public repositories.
+I joined GitHub **2** years ago, I pushed **828** commits, opened **3** issues, submitted **29** pull requests, received **151** stars across **43** personal projects, and contributed to **9** public repositories.
+
+
+<br>
+
+I also write technical articles at [EqraaTech](https://eqraatech.com/author/omagdy/)
 
 ## I am comfortable working with
 
