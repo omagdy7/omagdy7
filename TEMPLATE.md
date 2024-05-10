@@ -31,4 +31,4 @@ I also write technical articles at [EqraaTech](https://eqraatech.com/author/omag
 <br> 
 <br> 
 <br> 
-![](https://github-readme-stats.vercel.app/api?username=omagdy7&show_icons=true&theme=tokyonight)
+![My Stats](https://github-readme-stats.vercel.app/api?username=omagdy7&show_icons=true&theme=tokyonight)
