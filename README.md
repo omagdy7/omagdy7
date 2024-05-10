@@ -3,10 +3,9 @@
 
 I'm **omagdy**, a Linux enthusiast, DevOps enjoyer, Rust advocater and I like to reinvent the wheel
 
-
 <br>
 
-I joined GitHub **2** years ago, I pushed **828** commits, opened **3** issues, submitted **29** pull requests, received **151** stars across **43** personal projects, and contributed to **9** public repositories.
+I joined GitHub **2** years ago, I pushed **903** commits, opened **4** issues, submitted **29** pull requests, received **182** stars across **52** personal projects, and contributed to **9** public repositories.
 
 
 <br>
@@ -33,4 +32,4 @@ I also write technical articles at [EqraaTech](https://eqraatech.com/author/omag
 <br> 
 <br> 
 
-![](https://api.githubtrends.io/user/svg/omagdy7/langs?time_range=one_year&theme=dark)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=omagdy7&show_icons=true&theme=tokyonight" />
