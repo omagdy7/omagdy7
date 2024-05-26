@@ -1,7 +1,7 @@
 ### Hey!
 
 
-I'm **omagdy**, a Linux enthusiast, DevOps enjoyer, Rust advocater and I like to reinvent the wheel
+I'm **omagdy**, a Linux enthusiast, DevOps enjoyer, Rust advocater and I like to reinvent square wheels to appreciate the round ones.
 
 <br>
 
