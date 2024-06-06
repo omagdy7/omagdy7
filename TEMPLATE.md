@@ -14,10 +14,10 @@ I also write technical articles at [EqraaTech](https://eqraatech.com/author/omag
 
 ## I am comfortable working with
 
-[![My Skills](https://skillicons.dev/icons?i=rust,cpp,c,python,js,bash,nodejs,react,ansible,jenkins,githubactions,docker,git,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,cpp,c,python,js,bash,nodejs,tailwind,mysql,react,ansible,jenkins,githubactions,docker,git,aws)](https://skillicons.dev)
 
 ## I am familiar with
-[![My Skills](https://skillicons.dev/icons?i=k8s,terraform,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=k8s,terraform,gcp,typescript,flutter)](https://skillicons.dev)
 
 
 
