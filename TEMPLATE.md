@@ -10,7 +10,7 @@ I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMITS }}** comm
 
 <br>
 
-I also write technical articles at [EqraaTech](https://eqraatech.com/author/omagdy/)
+I also sometimes write technical articles at [EqraaTech](https://eqraatech.com/author/omagdy/)
 
 ## I am comfortable working with
 
